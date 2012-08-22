@@ -1,6 +1,11 @@
 # DataSift HTTP POST Receiver
 
-A leightweight, fast and simple REST service to recived DataSift Push data, and write to a file. Written using PHP Slim framework - http://www.slimframework.com/
+A lightweight, fast and simple REST service to receive DataSift Push data, and write to a file. Written using PHP Slim framework - http://www.slimframework.com/
+
+## Features
+
+  * Receive HTTP POST JSON data from DataSift, and write each interaction object to a new line within a file.
+  * Logging capability 
 
 ## Install
 
