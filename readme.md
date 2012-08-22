@@ -9,6 +9,6 @@ A lightweight, fast and simple REST service to receive DataSift Push data, and w
 
 ## Install
 
-  * Upload to web aserver - enable mod_reqwrite if required to use .htaccess
+  * Upload to a web server - enable mod_reqwrite if required to use .htaccess
   * Make sure /app/data and /app/logs are writable by the web server
   * REST endpoint is availble at "/" to POST requests
